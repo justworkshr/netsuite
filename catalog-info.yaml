@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: netsuite
+  description: "NetSuite SuiteTalk API Wrapper"
+  annotations:
+    github.com/project-slug: justworkshr/netsuite
+  tags:
+    - ruby
+spec:
+  lifecycle: production
+  type: library
+  owner: payments-engine
