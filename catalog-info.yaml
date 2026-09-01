@@ -5,7 +5,7 @@ metadata:
   description: "NetSuite SuiteTalk API Wrapper"
   annotations:
     github.com/project-slug: justworkshr/netsuite
-    tags:
+  tags:
     - ruby
 spec:
   lifecycle: production
